@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004789631696",
+    "project_id": "to-do-list-deb49",
+    "storage_bucket": "to-do-list-deb49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004789631696:android:e37941c078d84ea4ed2cd5",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jeL6qvJ-oea_rS-vQolc4xxA0seKEgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
